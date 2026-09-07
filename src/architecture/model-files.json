@@ -1,0 +1,34 @@
+[
+  {
+    "file": "onnx/audio_encoder_q4f16.onnx",
+    "bytes": 260446
+  },
+  {
+    "file": "onnx/audio_encoder_q4f16.onnx_data",
+    "bytes": 171258112
+  },
+  {
+    "file": "onnx/decoder_model_merged_q4f16.onnx",
+    "bytes": 673231
+  },
+  {
+    "file": "onnx/decoder_model_merged_q4f16.onnx_data",
+    "bytes": 1519700992
+  },
+  {
+    "file": "onnx/embed_tokens_q4f16.onnx",
+    "bytes": 5621
+  },
+  {
+    "file": "onnx/embed_tokens_q4f16.onnx_data",
+    "bytes": 1590689792
+  },
+  {
+    "file": "onnx/vision_encoder_q4f16.onnx",
+    "bytes": 189124
+  },
+  {
+    "file": "onnx/vision_encoder_q4f16.onnx_data",
+    "bytes": 99189440
+  }
+]
