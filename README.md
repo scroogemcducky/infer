@@ -1,6 +1,6 @@
-# My Foldkit App
+# Explorations of RLVR
 
-A Foldkit application built with Effect.
+A Foldkit application with local LLM inference using Transformers.js and Gemma 4 E2B.
 
 ## Getting Started
 
@@ -9,7 +9,10 @@ bun install
 bun dev
 ```
 
-## Learn More
+## Foldkit
 
 - [Foldkit Documentation](https://foldkit.dev)
 - [Effect Documentation](https://effect.website)
+
+## Gemma 4 E2B
+- [Huggingface](https://huggingface.co/google/gemma-4-E2B)
