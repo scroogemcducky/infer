@@ -1,7 +1,9 @@
 # Explorations of RLVR
 
 A Foldkit application with local LLM inference using Transformers.js and Gemma 4 E2B.
-
+Looks like Hugging Face have blocked downloading models on .workers.dev origins. So 
+Git clone https://github.com/scroogemcducky/infer.git
+cd into infer and
 ## Getting Started
 
 ```bash
