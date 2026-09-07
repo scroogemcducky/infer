@@ -15,4 +15,4 @@ bun dev
 - [Effect Documentation](https://effect.website)
 
 ## Gemma 4 E2B
-- [Huggingface](https://huggingface.co/google/gemma-4-E2B)
+- [Hugging Face](https://huggingface.co/google/gemma-4-E2B)
